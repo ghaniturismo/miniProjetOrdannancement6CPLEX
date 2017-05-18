@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Classical Open-shop scheduling problem, Constraint Programming</description>
+	<configs>
+		<config category="opl" default="true" name="Basic">
+			<ref name="sched_openshop.mod" type="model">
+			</ref>
+			<ref name="ordonnancement_openshop.dat" type="data">
+			</ref>
+			<ref name="ordonnancement_openshop.ops" type="setting">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
